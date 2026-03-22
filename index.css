@@ -1,0 +1,55 @@
+nav{
+    float:right;
+    margin-right: 20px;
+    block-size: 10;
+}
+button{
+    button{
+    padding:20px 40px;
+    border-radius: 40px;
+    margin-right: 20px;
+    color: aliceblue;
+    background-color:azure;
+}
+}
+h2{
+    border-style: double;
+}
+style{
+     .white-box{
+        width: 150px;
+        height: 150px;
+        background-color: white;
+
+     }
+     
+}
+.bcontainer
+{
+    margin-left: 80%;
+}
+.image-container {
+  display: flex;
+  justify-content: center; /* Optional: centers the images within the container */
+}
+.text
+{
+    margin-left: 0%;
+    font-size: medium;
+    font-weight: bold;
+    font-display: block;
+}
+.image-container img {
+  width: 33.33%; /* Adjust width based on the number of images */
+  padding: 5px; /* Optional: adds space between images */
+  box-sizing: border-box; /* Ensures padding is included in the width calculation */
+}
+.hello{
+    background-color: rgb(245, 245, 245);
+}#p{
+     font-size: medium;
+    font-weight: bold;
+    font-display: block;
+}
+
+
